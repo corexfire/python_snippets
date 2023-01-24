@@ -1,4 +1,3 @@
-
 def pattern(n):
     # print upper side of heart
     for i in range(n // 2, n, 2):
@@ -20,5 +19,5 @@ def pattern(n):
             print("*", end=" ")
         print()
 
-print("Result :")
+
 pattern(6)

@@ -12,5 +12,4 @@ def pattern(n):
         print()
 
 
-print("Result :")
 pattern(6)
