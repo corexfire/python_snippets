@@ -20,5 +20,5 @@ def pattern(n):
             print("*", end=" ")
         print()
 
-
-pattern(5)
+print("Result :")
+pattern(6)
